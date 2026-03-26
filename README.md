@@ -143,13 +143,9 @@ Overall, the project provides a scalable and practical framework that can assist
 How to Run the Project:
 
 Step 1: Clone the repository
-   * ( git clone <your-repo-link> )
 
 Step 2: Navigate to the project folder
-   * "( cd <project-folder> )"
     
 Step 3: Install required libraries
-   * ( pip install -r requirements.txt )
  
 Step 4: Run Jupyter Notebook
-   * ( jupyter notebook )
