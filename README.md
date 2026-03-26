@@ -149,3 +149,5 @@ Step 2: Navigate to the project folder
 Step 3: Install required libraries
  
 Step 4: Run Jupyter Notebook
+
+This repo does not contain the actual dataset used because of its size.
